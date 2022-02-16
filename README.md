@@ -16,22 +16,22 @@
 ---
 ### Example of Cahrt Outputs
 
-![image_add](images/personal_Savings_composition.png)
+![pie_chart](images/personal_Savings_composition.png)
 
 
-![image_add](images/distribution_500.png)
+![dist](images/distribution_500.png)
 
 
-![image_add](images/30_years.png)
+![bar](images/30_years.png)
 
 
-![image_add](images/returns_plot.png)
+![out1](images/returns_plot.png)
 
 ---
 ## Challenge: Early Retirement
 
 These results show that those with a high risk preference have the potential  to retire early with a higher stock to bond ratio and a more significant initial investment. 
-![image_add](images/60K_10_Years.png)
+![out2](images/60K_10_Years.png)
 
 ---
 ### This Project Built Using:
